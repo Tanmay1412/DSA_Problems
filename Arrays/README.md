@@ -311,40 +311,7 @@ Always check:
 
 ---
 
-# 12. Questions for Day 1
 
-### Question 1
-
-**Find the Highest Altitude** (Easy)
-
-Concept:
-
-* Running Sum
-* Linear Scan
-
----
-
-### Question 2
-
-**Richest Customer Wealth** (Easy)
-
-Concept:
-
-* Row Sum
-* Traversal
-
----
-
-### Question 3
-
-**Find Numbers with Even Number of Digits** (Easy)
-
-Concept:
-
-* Counting
-* Traversal
-
----
 
 # Revision (1 Minute)
 
